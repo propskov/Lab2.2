@@ -21,6 +21,7 @@ public abstract class File {
         return size;
     }
 
+
     public String getFormat() {
         return format;
     }
