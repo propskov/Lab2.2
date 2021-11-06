@@ -8,7 +8,6 @@ public class Doc extends File {
         setPage(page);
     }
 
-
     public int getPage() {
         return page;
     }

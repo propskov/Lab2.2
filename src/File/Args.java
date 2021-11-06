@@ -11,7 +11,6 @@ public class Args {
         File.printAll(file);
         System.out.println();
 
-
         Media[] myfile = new Media[]{
                 new Media("Intro", 1211_212, ".flac", "audio, альбом 'Absolution'", 0, 0, 22),
                 new Media("Hysteria", 11_562_212, ".flac", "audio,альбом 'Absolution'", 0, 4, 12),
